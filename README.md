@@ -2,7 +2,7 @@
 
 ## Specifications of Expand Coin
 * **Name**: Expand
-* **Consensus Mechanism:**: PoW / PoS
+* **Consensus Mechanism**: PoW / PoS
 * **Coin Algorithm**: Scrypt
 * **Coin Abbreviation**: EXD
 * **Maximum Coin Supply**: 30 Million EXD
